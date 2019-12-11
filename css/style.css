@@ -30,6 +30,72 @@ html,body, section {
   background-size: cover;
 }
 
+.fullscreen-img-2 { 
+  /* The image used */
+  background-image: url("/img/christmas%20mug.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-3 { 
+  /* The image used */
+  background-image: url(/img/christmas.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-4 { 
+  /* The image used */
+  background-image: url(/img/gingerbread%20house.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.fullscreen-img-5 { 
+  /* The image used */
+  background-image: url(/img/snowboys.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-6 { 
+  /* The image used */
+  background-image: url(/img/decorations.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .black-shadow{
     text-shadow: 4px 4px 8px rgb(0,0,0);
 }
